@@ -1,0 +1,35 @@
+Munteanu Vlad
+
+Sistemul Principal (SmartHomeSystem class)
+
+Gestionarea stării dispozitivelor
+Parsing și execuția regulilor de automatizare
+Funcțiile: parse_rule(), execute_rules(), add_rule(), remove_rule()
+
+
+Interfața de control manual
+
+Meniul principal și navigarea
+Controlul manual al dispozitivelor (temperatură, timp, motion)
+
+
+
+Vadean Catalin
+
+Procesarea NLP (NLPProcessor class)
+
+Conversia limbajului natural în reguli/comenzi
+Funcția: natural_language_to_rule()
+
+
+Interfața pentru comenzi naturale
+
+Gestionarea comenzilor vocale/text
+Demo-ul de automatizare
+Afișarea statusului dispozitivelor
+
+
+
+Lucru Comun
+Integrarea componentelor
+Debugging final
